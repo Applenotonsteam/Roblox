@@ -63,7 +63,7 @@ img {
 
 header h1 {
 	margin-left: 35%;
-	color: #734F2F;
+	color: #000000;
 	font-weight: bold;
 	font-size: 5em;
 }
@@ -75,7 +75,7 @@ header h2 {
 }
 
 header {
-	min-height: 300px;
+	min-height: 32px;
 	background-image: url("/images/index_pic.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
